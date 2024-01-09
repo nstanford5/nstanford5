@@ -11,15 +11,15 @@ My name is Nick Stanford and I am a Software Engineer specializing in Developer 
 ### Examples of Work
 
 #### Tutorial pages
-ERC20 in abstract language: https://docs.reach.sh/tut/erc20/
-Point-of-sale terminal: https://docs.reach.sh/tut/pos/
-Ticket Sales: https://docs.reach.sh/tut/ticket-sales/
+ERC20 in abstract language: https://docs.reach.sh/tut/erc20/ \n
+Point-of-sale terminal: https://docs.reach.sh/tut/pos/ \n
+Ticket Sales: https://docs.reach.sh/tut/ticket-sales/ \n
 
 #### Guides
 parallelReduce abstraction: https://docs.reach.sh/guide/parallelReduce/#guide-parallelReduce
 
 #### Demo Videos
-Marlowe Runner: https://youtu.be/B5XcH0j7Y7w?si=zkk0DFKYMQVldWmu
+Marlowe Runner: https://youtu.be/B5XcH0j7Y7w?si=zkk0DFKYMQVldWmu \n
 Marlowe TS-SDK: 
 - https://youtu.be/0Qa1CsZUGnw?si=_HDHmXEX0ks4xAy8
 - https://youtu.be/dsF-eADnOXE?si=DUrbvCckSyeft4nT
