@@ -28,9 +28,9 @@ Marlowe TS-SDK:
 
 
 #### Public appearances
-Workshop: https://www.youtube.com/live/gYZhlg1QB7M?si=a0PhJ_8Ju1A4tSzO
-Gitcoin presentation: https://www.youtube.com/live/Xd6O76ZSIe4?si=KgNmyme8cWjy2ahs
-Hack Boston: https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-
+Workshop: https://www.youtube.com/live/gYZhlg1QB7M?si=a0PhJ_8Ju1A4tSzO   
+Gitcoin presentation: https://www.youtube.com/live/Xd6O76ZSIe4?si=KgNmyme8cWjy2ahs   
+Hack Boston: https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-   
 
 
 <!--
