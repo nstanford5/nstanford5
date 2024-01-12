@@ -15,25 +15,25 @@ My name is Nick Stanford and I am a Software Engineer specializing in Developer 
 
 #### Tutorial pages
 [ERC20 in abstract language](https://docs.reach.sh/tut/erc20/)      
-[Point-of-sale terminal] (https://docs.reach.sh/tut/pos/)     
-[Ticket Sales] (https://docs.reach.sh/tut/ticket-sales/)   
+[Point-of-sale terminal](https://docs.reach.sh/tut/pos/)     
+[Ticket Sales](https://docs.reach.sh/tut/ticket-sales/)   
 
 #### Guides
-[parallelReduce abstraction] (https://docs.reach.sh/guide/parallelReduce/#guide-parallelReduce)   
+[parallelReduce abstraction](https://docs.reach.sh/guide/parallelReduce/#guide-parallelReduce)   
 
 #### Demo Videos
-[Marlowe Runner] (https://youtu.be/B5XcH0j7Y7w?si=zkk0DFKYMQVldWmu)   
+[Marlowe Runner](https://youtu.be/B5XcH0j7Y7w?si=zkk0DFKYMQVldWmu)   
 Marlowe TS-SDK:
-- [Intro Demo] (https://youtu.be/0Qa1CsZUGnw?si=_HDHmXEX0ks4xAy8)
-- [Playground <> TS-SDK] (https://youtu.be/dsF-eADnOXE?si=DUrbvCckSyeft4nT)
-- [Simple Demo] (https://youtu.be/7XsuT8D8L4Q?si=kM46MWbHL1D0K56I)
-- [Smart Gift Card] (https://youtu.be/bTpMZLmZU5k?si=ht_Lg6m-7e9xW3m_)
+- [Intro Demo](https://youtu.be/0Qa1CsZUGnw?si=_HDHmXEX0ks4xAy8)
+- [Playground <> TS-SDK](https://youtu.be/dsF-eADnOXE?si=DUrbvCckSyeft4nT)
+- [Simple Demo](https://youtu.be/7XsuT8D8L4Q?si=kM46MWbHL1D0K56I)
+- [Smart Gift Card](https://youtu.be/bTpMZLmZU5k?si=ht_Lg6m-7e9xW3m_)
 
 
 #### Public appearances
 [Telos Workshop](https://www.youtube.com/live/gYZhlg1QB7M?si=a0PhJ_8Ju1A4tSzO)   
-Algorand Gitcoin presentation: https://www.youtube.com/live/Xd6O76ZSIe4?si=KgNmyme8cWjy2ahs   
-Hack Boston: https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-   
+[Algorand Gitcoin presentation](https://www.youtube.com/live/Xd6O76ZSIe4?si=KgNmyme8cWjy2ahs)   
+[Hack Boston Panel](https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-)   
 
 ### DApps
 ticket-sales
