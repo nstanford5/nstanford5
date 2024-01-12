@@ -36,26 +36,26 @@ Marlowe TS-SDK:
 [Hack Boston Panel](https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-)   
 
 ### DApps
-ticket-sales
-point-of-sale
-nft-auction
-smart-gift-card
-marlowe-react-scaffold
-marlowe-time-lock-deposit
-fetch-nft-discord-bot
-reach-erc20
-reach-erc721
-solidity-erc721[dep]
-deli-line
-raffle-free
-blackjack
-rental-agreement
+ticket-sales  
+point-of-sale  
+nft-auction  
+smart-gift-card  
+marlowe-react-scaffold  
+marlowe-time-lock-deposit  
+fetch-nft-discord-bot  
+reach-erc20  
+reach-erc721  
+solidity-erc721[dep]  
+deli-line  
+raffle-free  
+blackjack  
+rental-agreement  
 
 
 ### Personal Projects
-ai-discord-bot
-christmas-lightshow-pi
-solar-powered-algorand-node-cluster
+ai-discord-bot  
+christmas-lightshow-pi  
+solar-powered-algorand-node-cluster  
 
 
 
