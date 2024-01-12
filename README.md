@@ -26,7 +26,6 @@ Marlowe TS-SDK:
 - https://youtu.be/7XsuT8D8L4Q?si=kM46MWbHL1D0K56I
 
 
-
 #### Public appearances
 Workshop: https://www.youtube.com/live/gYZhlg1QB7M?si=a0PhJ_8Ju1A4tSzO   
 Gitcoin presentation: https://www.youtube.com/live/Xd6O76ZSIe4?si=KgNmyme8cWjy2ahs   
