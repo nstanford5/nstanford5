@@ -7,6 +7,9 @@ My name is Nick Stanford and I am a Software Engineer specializing in Developer 
 - Documentation engineering
 - Tutorials and Curriculum building
 - Smart Contract design and implementation
+- Exceptional public speaking skills
+- Full-stack demo DApps
+- Video editing
 
 ### Examples of Work
 
