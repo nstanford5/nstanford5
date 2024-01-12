@@ -14,7 +14,7 @@ My name is Nick Stanford and I am a Software Engineer specializing in Developer 
 ### Examples of Work
 
 #### Tutorial pages
-[ERC20 in abstract language] (https://docs.reach.sh/tut/erc20/)     
+[ERC20 in abstract language](https://docs.reach.sh/tut/erc20/)      
 [Point-of-sale terminal] (https://docs.reach.sh/tut/pos/)     
 [Ticket Sales] (https://docs.reach.sh/tut/ticket-sales/)   
 
