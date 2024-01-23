@@ -20,7 +20,7 @@ My name is Nick Stanford and I am a Software Engineer specializing in Developer 
 
 #### Guides
 [parallelReduce abstraction](https://docs.reach.sh/guide/parallelReduce/#guide-parallelReduce)   
-Roles in Marlowe[WIP]   
+[Roles in Marlowe](https://docs.marlowe.iohk.io/docs/platform-and-architecture/roles-in-marlowe)  
 
 #### Demo Videos
 [Marlowe Runner](https://youtu.be/B5XcH0j7Y7w?si=zkk0DFKYMQVldWmu)   
