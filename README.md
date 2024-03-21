@@ -59,7 +59,8 @@ christmas-lightshow-pi
 solar-powered-algorand-node-cluster  
 simple-compiler-lisp-js  
 sms-message-bot  
-licensing-platform [WIP]  
+licensing-platform [WIP] 
+cardano-midnight-node-cluster 
 
 
 
