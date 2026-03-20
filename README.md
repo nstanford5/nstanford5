@@ -36,6 +36,12 @@ Marlowe TS-SDK:
 [Algorand Gitcoin presentation](https://www.youtube.com/live/Xd6O76ZSIe4?si=KgNmyme8cWjy2ahs)   
 [Hack Boston Panel](https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-)   
 
+### Compact Contracts
+battleship-simple
+private-party
+private-reserve-auction
+
+
 ### DApps
 ticket-sales  
 point-of-sale  
