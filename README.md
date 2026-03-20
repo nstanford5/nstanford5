@@ -37,9 +37,9 @@ Marlowe TS-SDK:
 [Hack Boston Panel](https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-)   
 
 ### Compact Contracts
-battleship-simple
-private-party
-private-reserve-auction
+battleship-simple  
+private-party  
+private-reserve-auction  
 
 
 ### DApps
