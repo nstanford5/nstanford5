@@ -10,7 +10,14 @@ Senior Technical Product Manager at the [Midnight Foundation](https://midnight.n
 - **Developer support:** runbooks in [servicedesk](https://github.com/midnightntwrk/servicedesk)
 
 ### Compact contracts
-[battleship-simple](https://github.com/nstanford5/example-battleship-simple) · [private-party](https://github.com/nstanford5/example-private-party) · [private-reserve-auction](https://github.com/nstanford5/example-private-auction-reserve) · [hidden-num-raffle](https://github.com/nstanford5/example-raffle)
+Official examples in [midnight-examples](https://github.com/midnightntwrk/midnight-examples), a monorepo where every example compiles and runs its tests against a local Midnight network in CI:
+- [hello-world](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/hello-world): minimal contract and environment smoke test
+- [private-party](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/private-party): private on-chain data, access control, DUST sponsorship
+- [token-transfers](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/token-transfers): mint/send/receive for unshielded, NIGHT, and shielded tokens
+- [silent-auction](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/silent-auction): sealed reserve price (commit-reveal) NFT auction
+- [zk-loan](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/zk-loan): private credit scoring with an in-circuit signed attestation
+- [shielded-chips](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/shielded-chips): MIP-0011 shielded chips and a private-payout roulette
+- [battleship](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/battleship): contract as a state machine with RBAC and private state
 
 ### Previously
 Developer relations and DX across 20+ blockchain protocols (Reach, Marlowe/Cardano, Algorand).
