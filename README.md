@@ -1,87 +1,19 @@
-### Hello World
+### Hi, I'm Nick Stanford
 
-My name is Nick Stanford and I am a Software Engineer specializing in Developer Relations / Developer Experience.
+Senior Technical Product Manager at the [Midnight Foundation](https://midnight.network/), focused on developer experience for the Midnight network.
 
-- Built and deployed to more than 20 blockchain protocols
-- Proficient in JavaScript / Typescript
-- Documentation engineering
-- Tutorials and Curriculum building
-- Smart Contract design and implementation
-- Exceptional public speaking skills
-- Full-stack demo DApps
-- Video editing
+### What I work on at Midnight
+- **Midnight Improvement Proposals:** MIP/MPS editor; author of [MPS-0001](https://github.com/midnightntwrk/midnight-improvement-proposals/blob/main/mps/mps-0001-mps-process.md), which defines the MPS process
+- **Docs:** contributor and reviewer on [midnight-docs](https://github.com/midnightntwrk/midnight-docs)
+- **Examples and scaffolding:** [example-hello-world](https://github.com/midnightntwrk/example-hello-world), [example-private-party](https://github.com/midnightntwrk/example-private-party), [example-battleship](https://github.com/midnightntwrk/example-battleship), [example-bboard](https://github.com/midnightntwrk/example-bboard), reviews on [create-mn-app](https://github.com/midnightntwrk/create-mn-app)
+- **AI dev tooling:** [midnight-expert](https://github.com/midnightntwrk/midnight-expert), Claude Code plugins for Compact and Midnight DApp development
+- **Developer support:** runbooks in [servicedesk](https://github.com/midnightntwrk/servicedesk)
 
-### Examples of Work
+### Compact contracts
+[battleship-simple](https://github.com/nstanford5/example-battleship-simple) · [private-party](https://github.com/nstanford5/example-private-party) · [private-reserve-auction](https://github.com/nstanford5/example-private-auction-reserve) · [hidden-num-raffle](https://github.com/nstanford5/example-raffle)
 
-#### Tutorial pages
-[ERC20 in abstract language](https://docs.reach.sh/tut/erc20/)      
-[Point-of-sale terminal](https://docs.reach.sh/tut/pos/)     
-[Ticket Sales](https://docs.reach.sh/tut/ticket-sales/)   
-
-#### Guides
-[parallelReduce abstraction](https://docs.reach.sh/guide/parallelReduce/#guide-parallelReduce)   
-[Roles in Marlowe](https://docs.marlowe.iohk.io/docs/platform-and-architecture/roles-in-marlowe)  
-
-#### Demo Videos
-[Marlowe Runner](https://youtu.be/B5XcH0j7Y7w?si=zkk0DFKYMQVldWmu)   
-Marlowe TS-SDK:
-- [Intro Demo](https://youtu.be/0Qa1CsZUGnw?si=_HDHmXEX0ks4xAy8)
-- [Playground <> TS-SDK](https://youtu.be/dsF-eADnOXE?si=DUrbvCckSyeft4nT)
-- [Simple Demo](https://youtu.be/7XsuT8D8L4Q?si=kM46MWbHL1D0K56I)
-- [Smart Gift Card](https://youtu.be/bTpMZLmZU5k?si=ht_Lg6m-7e9xW3m_)
-
-
-#### Public appearances
-[Telos Workshop](https://www.youtube.com/live/gYZhlg1QB7M?si=a0PhJ_8Ju1A4tSzO)   
-[Algorand Gitcoin presentation](https://www.youtube.com/live/Xd6O76ZSIe4?si=KgNmyme8cWjy2ahs)   
-[Hack Boston Panel](https://youtu.be/0teXdMKrVUk?si=wEV5QBR0MhpqPeS-)   
-
-### Compact Contracts
-[battleship-simple](https://github.com/nstanford5/example-battleship-simple)  
-[private-party](https://github.com/nstanford5/example-private-party)  
-[private-reserve-auction](https://github.com/nstanford5/example-private-auction-reserve)  
-[hidden-num-raffle](https://github.com/nstanford5/example-raffle)
-
-
-### DApps
-ticket-sales  
-point-of-sale  
-nft-auction  
-smart-gift-card  
-marlowe-react-scaffold  
-marlowe-time-lock-deposit  
-fetch-nft-discord-bot  
-reach-erc20  
-reach-erc721  
-solidity-erc721[dep]  
-deli-line  
-raffle-free  
-blackjack  
-rental-agreement  
-
-
-### Personal Projects
-ai-discord-bot  
-christmas-lightshow-pi  
-solar-powered-algorand-node-cluster  
-simple-compiler-lisp-js  
-sms-message-bot  
-licensing-platform [WIP]  
-cardano-midnight-node-cluster 
-
-
-
-<!--
-**nstanford5/nstanford5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Previously
+Developer relations and DX across 20+ blockchain protocols (Reach, Marlowe/Cardano, Algorand).
+- Tutorials: [ERC20](https://docs.reach.sh/tut/erc20/), [Point-of-sale](https://docs.reach.sh/tut/pos/), [Ticket Sales](https://docs.reach.sh/tut/ticket-sales/), [Roles in Marlowe](https://docs.marlowe.iohk.io/docs/platform-and-architecture/roles-in-marlowe)
+- Demos: [Marlowe Runner](https://youtu.be/B5XcH0j7Y7w), [Marlowe TS-SDK intro](https://youtu.be/0Qa1CsZUGnw)
+- Talks: [Telos Workshop](https://www.youtube.com/live/gYZhlg1QB7M), [Algorand Gitcoin](https://www.youtube.com/live/Xd6O76ZSIe4), [Hack Boston panel](https://youtu.be/0teXdMKrVUk)
