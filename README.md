@@ -20,7 +20,7 @@ Official examples in [midnight-examples](https://github.com/midnightntwrk/midnig
 - [battleship](https://github.com/midnightntwrk/midnight-examples/tree/main/examples/battleship): contract as a state machine with RBAC and private state
 
 ### Previously
-Developer relations and DX across 20+ blockchain protocols (Reach, Marlowe/Cardano, Algorand).
+Developer relations and DevX across blockchain protocols (Reach, Marlowe/Cardano, Algorand).
 - Tutorials: [ERC20](https://docs.reach.sh/tut/erc20/), [Point-of-sale](https://docs.reach.sh/tut/pos/), [Ticket Sales](https://docs.reach.sh/tut/ticket-sales/), [Roles in Marlowe](https://docs.marlowe.iohk.io/docs/platform-and-architecture/roles-in-marlowe)
 - Demos: [Marlowe Runner](https://youtu.be/B5XcH0j7Y7w), [Marlowe TS-SDK intro](https://youtu.be/0Qa1CsZUGnw)
 - Talks: [Telos Workshop](https://www.youtube.com/live/gYZhlg1QB7M), [Algorand Gitcoin](https://www.youtube.com/live/Xd6O76ZSIe4), [Hack Boston panel](https://youtu.be/0teXdMKrVUk)
